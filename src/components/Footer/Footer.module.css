@@ -1,0 +1,12 @@
+.footer{
+    display:flex;
+    color:var(--white);
+    background-color: var(--black);
+    justify-content: center;
+}
+
+.footer h2 {
+    font-weight: 400;
+    font-size: 18px;
+    color: var(--branco);
+}
