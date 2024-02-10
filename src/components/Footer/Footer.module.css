@@ -1,6 +1,5 @@
 .footer{
     display:flex;
-    color:var(--white);
     background-color: var(--black);
     justify-content: center;
 }
